@@ -1,0 +1,1 @@
+Um programa que simula uma luta entre dois lutadores. A quantidade de rounds é escolhida e ele roda uma simulação que pode acabar a cada round por submissão ou nocaute ou ir até o fim e acabar por pontos. 
